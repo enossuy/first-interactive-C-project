@@ -1,0 +1,3 @@
+To get more images:
+- search the Web (for instance, rose.jpg is from https://www.pexels.com)
+- convert to ppm format, and to size 800x600 (e.g. using command-line tool "mogrify")
